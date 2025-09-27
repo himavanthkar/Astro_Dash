@@ -1,4 +1,4 @@
-# Web Development Project 5 - AstroDash
+# AstroDash
 
 Submitted by: **himavant kerpurapu**
 
